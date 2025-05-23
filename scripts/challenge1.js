@@ -1,3 +1,4 @@
+//Create a createCounter function that returns an increment and decrement function.
 // This is a simple counter function that can increment and decrement a count.
 // It uses closures to maintain the state of the count variable.
 // The createCounter function returns an object with two methods: increment and decrement.
